@@ -1,3 +1,3 @@
-#Hackathon
+#Blox
 
-Project
+Google Tel Aviv Summer 2014 Smart Cities hackathon project
